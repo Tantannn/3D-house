@@ -1,12 +1,15 @@
-# Three.js Journey
+# Three.js A Hunted House
+
+
+
+## Demo
+
+- [Demo](https://app.netlify.com/sites/a-hunted-house/overview)
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
-
-- [Demo](https://app.netlify.com/sites/a-hunted-house/overview)
-
-## Install
 
 ``` bash
 # Install dependencies (only the first time)
